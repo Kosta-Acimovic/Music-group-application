@@ -1,0 +1,6 @@
+C:\Users\KK\source\repos\Projekat\Commonn\bin\Debug\Commonn.dll
+C:\Users\KK\source\repos\Projekat\Commonn\bin\Debug\Commonn.pdb
+C:\Users\KK\source\repos\Projekat\Commonn\obj\Debug\Commonn.csproj.AssemblyReference.cache
+C:\Users\KK\source\repos\Projekat\Commonn\obj\Debug\Commonn.csproj.CoreCompileInputs.cache
+C:\Users\KK\source\repos\Projekat\Commonn\obj\Debug\Commonn.dll
+C:\Users\KK\source\repos\Projekat\Commonn\obj\Debug\Commonn.pdb

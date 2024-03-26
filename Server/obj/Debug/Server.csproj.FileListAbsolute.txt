@@ -1,0 +1,46 @@
+C:\Users\KK\source\repos\Projekat\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\KK\source\repos\Projekat\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\KK\source\repos\Projekat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\KK\source\repos\Projekat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\KK\source\repos\Projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\KK\source\repos\Projekat\Server\bin\Debug\Server.exe.config
+C:\Users\KK\source\repos\Projekat\Server\bin\Debug\Server.exe
+C:\Users\KK\source\repos\Projekat\Server\bin\Debug\Server.pdb
+C:\Users\KK\source\repos\Projekat\Server\bin\Debug\Commonn.dll
+C:\Users\KK\source\repos\Projekat\Server\bin\Debug\Commonn.pdb
+C:\Users\KK\source\repos\Projekat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\KK\source\repos\Projekat\Server\obj\Debug\Server.exe
+C:\Users\KK\source\repos\Projekat\Server\obj\Debug\Server.pdb
+C:\Users\KK\source\repos\Projekat\Server\bin\Debug\DBBroker.dll
+C:\Users\KK\source\repos\Projekat\Server\bin\Debug\DBBroker.pdb
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\Server\bin\Debug\Server.exe.config
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\Server\bin\Debug\Server.exe
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\Server\bin\Debug\Server.pdb
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\Server\bin\Debug\Commonn.dll
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\Server\bin\Debug\DBBroker.dll
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\Server\bin\Debug\Commonn.pdb
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\Server\bin\Debug\DBBroker.pdb
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\Server\obj\Debug\Server.exe
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\Server\obj\Debug\Server.pdb
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\Server\bin\Debug\Server.exe.config
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\Server\bin\Debug\Server.exe
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\Server\bin\Debug\Server.pdb
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\Server\bin\Debug\Commonn.dll
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\Server\bin\Debug\DBBroker.dll
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\Server\bin\Debug\Commonn.pdb
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\Server\bin\Debug\DBBroker.pdb
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\Server\obj\Debug\Server.FrmServer.resources
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\Server\obj\Debug\Server.exe
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\Server\obj\Debug\Server.pdb

@@ -1,0 +1,64 @@
+C:\Users\KK\source\repos\Projekat\FrmLogin\bin\Debug\FrmLogin.exe
+C:\Users\KK\source\repos\Projekat\FrmLogin\bin\Debug\FrmLogin.pdb
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.Properties.Resources.resources
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.exe
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.pdb
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.FrmMain.resources
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.FrmLogin.resources
+C:\Users\KK\source\repos\Projekat\FrmLogin\bin\Debug\Commonn.dll
+C:\Users\KK\source\repos\Projekat\FrmLogin\bin\Debug\Commonn.pdb
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCDefaultMain.resources
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\Client.csproj.CopyComplete
+C:\Users\KK\source\repos\Projekat\FrmLogin\bin\Debug\FrmLogin.exe.config
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCNastup.UCSingleNastup.resources
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCIzvodjac.UCIzmeniIzvodjaca.resources
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCIzvodjac.UCSingleIzvodjac.resources
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCMuzickaGrupa.UCIzmeniMuzickuGrupu.resources
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCMuzickaGrupa.UCSingleMuzickaGrupa.resources
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCNastup.UCIzmeniNastup.resources
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\bin\Debug\FrmLogin.exe.config
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\bin\Debug\FrmLogin.exe
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\bin\Debug\FrmLogin.pdb
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\bin\Debug\Commonn.dll
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\bin\Debug\Commonn.pdb
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.FrmMain.resources
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.FrmLogin.resources
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.Properties.Resources.resources
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCDefaultMain.resources
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCIzvodjac.UCIzmeniIzvodjaca.resources
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCIzvodjac.UCSingleIzvodjac.resources
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCMuzickaGrupa.UCIzmeniMuzickuGrupu.resources
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCMuzickaGrupa.UCSingleMuzickaGrupa.resources
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCNastup.UCIzmeniNastup.resources
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCNastup.UCSingleNastup.resources
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.exe
+C:\Users\Tatjana Bailovic\Desktop\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.pdb
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\bin\Debug\FrmLogin.exe.config
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\bin\Debug\FrmLogin.exe
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\bin\Debug\FrmLogin.pdb
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\bin\Debug\Commonn.dll
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\bin\Debug\Commonn.pdb
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.FrmMain.resources
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.FrmLogin.resources
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.Properties.Resources.resources
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCDefaultMain.resources
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCIzvodjac.UCIzmeniIzvodjaca.resources
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCIzvodjac.UCSingleIzvodjac.resources
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCMuzickaGrupa.UCIzmeniMuzickuGrupu.resources
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCMuzickaGrupa.UCSingleMuzickaGrupa.resources
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCNastup.UCIzmeniNastup.resources
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.UserControlls.UCNastup.UCSingleNastup.resources
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\obj\Debug\Client.csproj.CopyComplete
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.exe
+C:\Users\KK\Desktop\Projekat\Projekat\Projekat\FrmLogin\obj\Debug\FrmLogin.pdb

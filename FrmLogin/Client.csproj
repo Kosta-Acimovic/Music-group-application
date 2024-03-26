@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{90649970-586C-4B82-AA4A-48ACF60EFF82}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FrmLogin</RootNamespace>
+    <AssemblyName>FrmLogin</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Communication.cs" />
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIControllers\IzvodjacGUIController.cs" />
+    <Compile Include="GUIControllers\LoginGUIController.cs" />
+    <Compile Include="GUIControllers\MainCoordinator.cs" />
+    <Compile Include="GUIControllers\MuzickaGrupaGUIController.cs" />
+    <Compile Include="GUIControllers\NastupGUIController.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlls\UCDefaultMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlls\UCDefaultMain.Designer.cs">
+      <DependentUpon>UCDefaultMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlls\UCIzvodjac\UCIzmeniIzvodjaca.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlls\UCIzvodjac\UCIzmeniIzvodjaca.Designer.cs">
+      <DependentUpon>UCIzmeniIzvodjaca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlls\UCIzvodjac\UCSingleIzvodjac.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlls\UCIzvodjac\UCSingleIzvodjac.Designer.cs">
+      <DependentUpon>UCSingleIzvodjac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlls\UCMode.cs" />
+    <Compile Include="UserControlls\UCMuzickaGrupa\UCIzmeniMuzickuGrupu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlls\UCMuzickaGrupa\UCIzmeniMuzickuGrupu.Designer.cs">
+      <DependentUpon>UCIzmeniMuzickuGrupu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlls\UCMuzickaGrupa\UCSingleMuzickaGrupa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlls\UCMuzickaGrupa\UCSingleMuzickaGrupa.Designer.cs">
+      <DependentUpon>UCSingleMuzickaGrupa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlls\UCNastup\UCIzmeniNastup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlls\UCNastup\UCIzmeniNastup.Designer.cs">
+      <DependentUpon>UCIzmeniNastup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlls\UCNastup\UCSingleNastup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlls\UCNastup\UCSingleNastup.Designer.cs">
+      <DependentUpon>UCSingleNastup.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlls\UCDefaultMain.resx">
+      <DependentUpon>UCDefaultMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlls\UCIzvodjac\UCIzmeniIzvodjaca.resx">
+      <DependentUpon>UCIzmeniIzvodjaca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlls\UCIzvodjac\UCSingleIzvodjac.resx">
+      <DependentUpon>UCSingleIzvodjac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlls\UCMuzickaGrupa\UCIzmeniMuzickuGrupu.resx">
+      <DependentUpon>UCIzmeniMuzickuGrupu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlls\UCMuzickaGrupa\UCSingleMuzickaGrupa.resx">
+      <DependentUpon>UCSingleMuzickaGrupa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlls\UCNastup\UCIzmeniNastup.resx">
+      <DependentUpon>UCIzmeniNastup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlls\UCNastup\UCSingleNastup.resx">
+      <DependentUpon>UCSingleNastup.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Commonn\Common.csproj">
+      <Project>{CAA23549-0BF7-47F8-8497-13D100F276B8}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\aa-min.jpg" />
+    <Content Include="Resources\aa-min1.jpg" />
+    <Content Include="Resources\login.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,10 @@
+C:\Users\KK\source\repos\Projekat\FrmLogin\bin\Debug\FrmLogin.exe.config
+C:\Users\KK\source\repos\Projekat\FrmLogin\bin\Debug\FrmLogin.exe
+C:\Users\KK\source\repos\Projekat\FrmLogin\bin\Debug\FrmLogin.pdb
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.csproj.AssemblyReference.cache
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.Form1.resources
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.Properties.Resources.resources
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.csproj.GenerateResource.cache
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.csproj.CoreCompileInputs.cache
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.exe
+C:\Users\KK\source\repos\Projekat\FrmLogin\obj\Debug\FrmLogin.pdb
